@@ -43,6 +43,6 @@ For now this is a semi-untethered Jailbreak, so everytime you reboot your device
 
 CREDITS:
 
-@iMokhles (IPA, Version 1.0) SHA1: 25e0aa517a2696084e66ba22e4d3631daac7c3c5
+@iMokhles (IPA, Version 1.0) SHA1: 43ad9fb8e62ab99649ff11e5c5f198c936859f4a     MD5: e2a36e862b0db8512c8465fea89080a0
 @PanguTeam (pangu.io)
 
