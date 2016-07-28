@@ -23,10 +23,10 @@ iPhone SE
 
 iPad Air
 iPad Air 2
-iPad Pro 12.7*
-iPad Pro 9.7*
+iPad Pro 12.7
+iPad Pro 9.7
 
-iPod Touch 6G*
+iPod Touch 6G
 
 TUTORIAL:
 
