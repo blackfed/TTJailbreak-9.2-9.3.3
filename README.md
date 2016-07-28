@@ -30,7 +30,7 @@ iPod Touch 6G*
 
 TUTORIAL:
 
--On your iOS device open safari and go to http://tinyurl.com/jxk64fj and click install when it asks you to install an app with a Chinese name.
+-On your iOS device open safari and go <a href="http://tinyurl.com/jxk64fj">HERE</a> and click install when it asks you to install an app with a Chinese name.
 -Then, go to Preferences>General>Device Configuration>Click on the certificate and autorize it
 -Go to your HomeScreen, click on the newly instaled app and accept for notifications when asked
 -After that click on the colored circle, lock your devide and wait for some minutes on your lockscreen until your device reboot itself
